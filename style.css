@@ -1,0 +1,12 @@
+.on {
+  background-color: black;
+
+  p {
+    color: aliceblue;
+  }
+
+  button {
+    background-color: crimson;
+    color: cornsilk;
+  }
+}
